@@ -17,4 +17,4 @@
 4. Запускаете /data/install_v2raya.sh
 5. Для удаления - соответственно /data/uninstall_v2raya.sh
 
-Оснвоано на инструкции https://4pda.to/forum/index.php?showtopic=1070166&st=3940#entry132776704 by Spandex
+Основано на инструкции https://4pda.to/forum/index.php?showtopic=1070166&st=3940#entry132776704 by Spandex
