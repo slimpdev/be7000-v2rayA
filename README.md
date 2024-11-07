@@ -13,6 +13,6 @@
    - v2ray-geosite_20240920063125-1_all.ipk
 
 их можно взять здесь - https://downloads.openwrt.org/releases/23.05.0/packages/aarch64_generic/packages/
-4. Скрипты install_v2raya.sh и uninstall_v2raya.sh копируете в /data/ , делаете им chmod +x 
-5. Запускаете /data/install_v2raya.sh
-6. Для удаления - соответственно /data/uninstall_v2raya.sh
+3. Скрипты install_v2raya.sh и uninstall_v2raya.sh копируете в /data/ , делаете им chmod +x 
+4. Запускаете /data/install_v2raya.sh
+5. Для удаления - соответственно /data/uninstall_v2raya.sh
